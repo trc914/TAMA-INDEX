@@ -1,0 +1,17 @@
+{
+  "refreshed_at": "2026-09-18",
+  "project": "TAMA INDEX",
+  "classification": "Independent Tamagotchi research wiki; visual direction by Cut State.",
+  "official_history": {
+    "original_release_japan": "1996-11-23",
+    "units_shipped_worldwide": ">100,000,000",
+    "units_measurement_date": "2025-07",
+    "paradise_worldwide_release": "2025-07"
+  },
+  "active_research_queue": [
+    {"id":"TI-001","subject":"Complete device atlas","priority":"P0","status":"seeded","evidence":"Official history is the release-date anchor; regional, shell and ROM fields require individual source records."},
+    {"id":"TI-002","subject":"Official update monitor","priority":"P0","status":"seeded","evidence":"Uni download notices and Paradise pages are being tracked as first-party sources."},
+    {"id":"TI-003","subject":"Community archive crosswalk","priority":"P1","status":"seeded","evidence":"Tama Zone and Tamagotchi Wiki are useful attributed leads; all claims remain separately classified."},
+    {"id":"TI-004","subject":"Rights-cleared visual asset program","priority":"P1","status":"open","evidence":"Current interface uses original visual artwork; no third-party franchise image assets are bundled."}
+  ]
+}
